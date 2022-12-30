@@ -1,0 +1,2 @@
+open in xampp htdocs
+http://localhost:81/12thAssignment/index.php "after u put it in htdocs"
